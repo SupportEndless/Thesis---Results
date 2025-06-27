@@ -1,2 +1,3 @@
 # Thesis---Results
-This github contains all result files ordered in folders. They are stored as ZIP files. It is recommended to read the thesis first, as the naming scheme does not make sense without it.
+This github contains all result files ordered in folders. The folder names give what the results are.
+The folders also contain a brief readme with little information.
